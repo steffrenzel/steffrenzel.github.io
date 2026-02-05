@@ -30,7 +30,9 @@ author:
   location         : "Berlin, Germany"
   employer         : "Universität Potsdam"
   uri              : "https://aclanthology.org/people/steffen-frenzel"
-  email            : "steffen.frenzel@uni-potsdam.de" 
+  email            : "steffen.frenzel@uni-potsdam.de"
+  author_profile   : true
+
 
   # Academic websites
   academia         : # URL
