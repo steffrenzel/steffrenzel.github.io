@@ -1,5 +1,5 @@
 cv:
-  name: Steffen Grenzel
+  name: Steffen Frenzel
   label: PhD-Student
   email: steffen.frenzel@uni-potsdam.de
   location: Potsdam, Germany
@@ -13,7 +13,7 @@ cv:
         area: Applied Computational Linguistics
         studyType: PhD
         start_date: 2024
-        end_date: ongoing
+        end_date: 2027
 
       - institution: University of Konstanz
         location: Konstanz, Germany
@@ -42,6 +42,7 @@ cv:
         location: Friedrichshafen
         start_date: 2024
         end_date: 2024
+        summary: Researcher in the project 'Inequality in Street-level Bureaucracy'.
 
     Languages:
       - name: German
@@ -51,18 +52,18 @@ cv:
         summary: "Fluent"
 
     Teaching:
-      - class: Identifying Small Talk in Spoken Langauge
-        location: University of Potsdam
-        level: Bachelor
-        year: 2024
+      - title: Identifying Small Talk in Spoken Langauge
+        institution: University of Potsdam
+        date: Summer Term 2024
+        summary: Bachelor-level class on text classification in spoken language.
 
-      - class: Introduction to Text Classification
-        location: University of Potsdam
-        level: Bachelor
-        year: 2025
+      - title: Introduction to Text Classification
+        institution: University of Potsdam
+        date: Winter Term 2025
+        summary: Foundations of text classification.
 
-      - class: Computational Linguistics Techniques
-        location: University of Potsdam
-        level: Bachelor
-        year: 2026
+      - title: Computational Linguistics Techniques
+        institution: University of Potsdam
+        date: Winter Term 2026
+        summary: Mathematical and algorithmic foundations of Computational Linguistics.
       
