@@ -1,8 +1,8 @@
 ---
 layout: post
-date: March 10, 2026
+date: July 15, 2026
 inline: true
 related_posts: false
 ---
 
-I'm happy to once more be part of the program comitee for NLP4Ecology, located at LREC 2026!
+I'm happy to present our work at an NLP colloquium at TU München!
