@@ -1,8 +1,8 @@
 ---
 layout: about
-title: Home
+title:
 permalink: /
-subtitle: PhD student in Computational Linguistics at the University of Potsdam
+subtitle:
 
 profile:
   align: right
@@ -22,6 +22,7 @@ announcements:
 latest_posts:
   enabled: false
 ---
+# Steffen Frenzel
 
 I am a PhD student in Computational Linguistics at the University of
 Potsdam.
