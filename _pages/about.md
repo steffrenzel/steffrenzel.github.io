@@ -2,8 +2,6 @@
 layout: about
 title: Home
 permalink: /
-nav: true
-nav_order: 1
 subtitle: PhD student in Computational Linguistics at the University of Potsdam
 
 profile:
