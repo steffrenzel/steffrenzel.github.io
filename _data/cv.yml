@@ -50,9 +50,18 @@ cv:
       - name: English
         summary: "Fluent"
 
-     Teaching:
-      - bullet: "**Identifying Small Talk in Spoken Language** — University of Potsdam, Summer Term 2024. Bachelor-level course on text classification in spoken language."
+    Teaching:
+      - label: Identifying Small Talk in Spoken Language
+        details: >
+          University of Potsdam, Summer Term 2024.
+          Bachelor-level course on text classification in spoken language.
 
-      - bullet: "**Introduction to Text Classification** — University of Potsdam, Winter Term 2025/26. Foundations of text classification."
+      - label: Introduction to Text Classification
+        details: >
+          University of Potsdam, Winter Term 2025/26.
+          Foundations of text classification.
 
-      - bullet: "**Computational Linguistics Techniques** — University of Potsdam, Winter Term 2026/27. Mathematical and algorithmic foundations of computational linguistics."
+      - label: Computational Linguistics Techniques
+        details: >
+          University of Potsdam, Winter Term 2026/27.
+          Mathematical and algorithmic foundations of computational linguistics.
