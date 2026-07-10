@@ -4,7 +4,7 @@ title:
 permalink: /
 subtitle:
 nav: true
-nav_page: 1
+nav_order: 1
 
 profile:
   align: right
