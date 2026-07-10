@@ -51,17 +51,17 @@ cv:
         summary: "Fluent"
 
     Teaching:
-      - label: Identifying Small Talk in Spoken Language
-        details: >
-          University of Potsdam, Summer Term 2024.
-          Bachelor-level course on text classification in spoken language.
+      - name: Identifying Small Talk in Spoken Language
+        location: University of Potsdam
+        date: Summer Term 2024
+        summary: Bachelor-level course on text classification in spoken language.
 
-      - label: Introduction to Text Classification
-        details: >
-          University of Potsdam, Winter Term 2025/26.
-          Foundations of text classification.
+      - name: Introduction to Text Classification
+        location: University of Potsdam
+        date: Winter Term 2025/26
+        summary: Foundations of text classification.
 
-      - label: Computational Linguistics Techniques
-        details: >
-          University of Potsdam, Winter Term 2026/27.
-          Mathematical and algorithmic foundations of computational linguistics.
+      - name: Computational Linguistics Techniques
+        location: University of Potsdam
+        date: Winter Term 2026/27
+        summary: Mathematical and algorithmic foundations of computational linguistics.
