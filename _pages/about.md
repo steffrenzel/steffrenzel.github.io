@@ -2,12 +2,14 @@
 layout: about
 title: Home
 permalink: /
+nav: true
+nav_order: 1
 subtitle: PhD student in Computational Linguistics at the University of Potsdam
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true
+  image_circular: false
   more_info: >
     <p>Department of Linguistics</p>
     <p>University of Potsdam</p>
