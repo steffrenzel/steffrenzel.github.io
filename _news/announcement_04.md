@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Paper accepted at BUCC 2026
-date: March 10, 2026
+date: May 11, 2026
 inline: true
 related_posts: false
 ---
