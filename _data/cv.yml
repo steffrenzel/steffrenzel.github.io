@@ -3,7 +3,7 @@ cv:
   label: PhD-Student
   email: steffen.frenzel@uni-potsdam.de
   location: Potsdam, Germany
-  image: ""
+  image: assets/img/prof_pic.jpg
 
   sections:
     Education:
