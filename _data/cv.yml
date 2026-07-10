@@ -46,15 +46,15 @@ cv:
     Teaching:
       - label: Identifying Small Talk in Spoken Language
         details: >
-          University of Potsdam · Summer Term 2024<br>
-          Bachelor-level course on text classification in spoken language.
+          University of Potsdam · Summer Term 2024 · <br>
+          <em>Bachelor-level course on text classification in spoken language.</em>
 
       - label: Introduction to Text Classification
         details: >
-          University of Potsdam · Winter Term 2025/26<br>
-          Foundations of text classification.
+          University of Potsdam · Winter Term 2025/26 · <br>
+          <em>Foundations of text classification.</em>
 
       - label: Computational Linguistics Techniques
         details: >
-          University of Potsdam · Winter Term 2026/27<br>
-          Mathematical and algorithmic foundations of computational linguistics.
+          University of Potsdam · Winter Term 2026/27 · <br>
+          <em>Mathematical and algorithmic foundations of computational linguistics.</em>
