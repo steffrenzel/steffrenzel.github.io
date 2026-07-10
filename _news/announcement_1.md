@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: February 2026
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+*Journal publication on EDU segmentation*<br>
+<em>We have presented our work on automatic EDU segmentation in the Journal for Language Technology and Computational Linguistics.</em>
