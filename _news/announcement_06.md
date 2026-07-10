@@ -1,8 +1,8 @@
 ---
 layout: post
-date: March 10, 2026
+date: June 25, 2026
 inline: true
 related_posts: false
 ---
 
-I'm happy to once more be part of the program comitee for NLP4Ecology, located at LREC 2026!
+We are organizing a project workshop on aligning multilingual text versions at Freie Universität Berlin!
