@@ -7,13 +7,13 @@ subtitle: PhD student in Computational Linguistics at the University of Potsdam
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false
+  image_circular: true
   more_info: >
     <p>Department of Linguistics</p>
     <p>University of Potsdam</p>
     <p>Potsdam, Germany</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
