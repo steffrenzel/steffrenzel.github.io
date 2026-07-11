@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false
+  image_circular: true
   more_info: >
     <p>Department of Linguistics</p>
     <p>University of Potsdam</p>
